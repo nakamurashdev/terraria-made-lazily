@@ -1,0 +1,10 @@
+﻿<Project>
+
+	<Import Project="..\tModLoader.targets" />
+
+	<PropertyGroup>
+		<AssemblyName>{{ModName}}</AssemblyName>
+		<RootNamespace>{{ModName}}</RootNamespace>
+	</PropertyGroup>
+
+</Project>
